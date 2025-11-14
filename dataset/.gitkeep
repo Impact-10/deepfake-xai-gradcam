@@ -1,0 +1,3 @@
+# Place your dataset here following this structure:
+# Train/Real/, Train/Fake/, val/Real/, val/Fake/, Test/Real/, Test/Fake/
+# See README.md for dataset preparation instructions

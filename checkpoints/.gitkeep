@@ -1,0 +1,2 @@
+# This directory will contain trained model checkpoints after running train.py
+# Checkpoints are excluded from git due to their large size
